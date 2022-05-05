@@ -29,3 +29,4 @@ for (int i = 1; i < mass.Length; i++)
 
 }
 Console.WriteLine($"сумма элементов, стоящих на нечётных позициях. = {summ}");
+//Console.WriteLine($"в массиве колличество чисел в промежутке {count}");
